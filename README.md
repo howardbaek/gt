@@ -46,6 +46,7 @@ or exporting to a file using `gtsave()`. Currently, **gt** supports the
 
 <hr />
 
+Testing testing
 The **gt** package is designed to be both straightforward yet powerful.
 The emphasis is on simple functions for the everyday display table
 needs. Here is a brief example of how to use **gt** to create a table
